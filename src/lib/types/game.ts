@@ -46,7 +46,7 @@ export type WinRecord = {
     /**
      * Multiplier for the payout (e.g. `0.3`, `1.5`).
      */
-    multiplier: number;
+    multiplier: 1000000;
     /**
      * Actual payout amount.
      */
